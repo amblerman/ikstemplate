@@ -1,6 +1,6 @@
 {
-  "name": "IBM Cloud Kubernetes Service",
-  "description": "IBM Cloud Kubernetes Service",
+  "name": "AJM IBM Cloud Kubernetes Service",
+  "description": "AJM IBM Cloud Kubernetes Service",
   "version": "1.0",
   "type": "prebuilt",
   "manifest": {
